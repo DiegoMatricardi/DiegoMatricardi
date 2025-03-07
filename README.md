@@ -8,7 +8,6 @@ I'm a student of information systems, currently I'm starting my career as a web 
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [diegobmatricardi@hotmail.com](mailto:diegobmatricardi@hotmail.com)
-* 🧠  I'm learning Full-Stack Javascript
 
 <a href="https://www.github.com/Diegolyer117" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Diegolyer117?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

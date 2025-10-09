@@ -6,7 +6,7 @@ Software Developer
 
 I started my college and was awarded my first opportunity in my career, an internship as a web developer, where I learned not only the main concepts of the area, but also AngularJs and C# .NET. With the help of the college, I improved my knowledge, mainly with Java and C language and other things. I am currently looking to improve my knowledge with JS to implement new projects and have the opportunity for a new internship.
 
-* 🌍  I'm based in Brasil
+* 🌍  I'm based in Brazil
 * ✉️  You can contact me at [diegobmatricardi@hotmail.com](mailto:diegobmatricardi@hotmail.com)
 * 🧠  I'm currently learning Full-Stack JS
 * 👥  I'm looking to collaborate on Software Developer

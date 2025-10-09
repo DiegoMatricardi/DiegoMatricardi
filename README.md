@@ -1,4 +1,4 @@
-Hi 👋 My name is Diego Matricardi
+Hi, My name is Diego Matricardi
 =================================
 
 Software Developer

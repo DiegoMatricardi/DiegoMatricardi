@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Desenvolvedor de Software | Brasil 🌍
+### Desenvolvedor de Software | Brasil 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diegomatricardi-0075c4?style=flat&logo=linkedin)](https://www.linkedin.com/in/diegomatricardi)
 [![GitHub](https://img.shields.io/badge/GitHub-DiegoMatricardi-24292e?style=flat&logo=github)](https://www.github.com/DiegoMatricardi)

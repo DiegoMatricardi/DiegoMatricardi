@@ -12,7 +12,7 @@
 
 ---
 
-## 🙋 Sobre mim
+## Sobre mim
 
 Desenvolvedor de software em formação, com experiência em estágio como desenvolvedor web, onde trabalhei com **AngularJS** e **C# .NET**. Tenho sólida base em **Java** e **C** adquirida durante a faculdade, possuo conhecimento em Express, mongoDB, MySQL atraves de cursos que participei.
 
@@ -23,7 +23,7 @@ Desenvolvedor de software em formação, com experiência em estágio como desen
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -49,7 +49,7 @@ Desenvolvedor de software em formação, com experiência em estágio como desen
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Desenvolvedor de software em formação, com experiência em estágio como desen
 
 ---
 
-## 🌐 Redes Sociais
+## Redes Sociais
 
 <p align="left">
   <a href="https://www.github.com/DiegoMatricardi" target="_blank">

@@ -73,8 +73,3 @@ Desenvolvedor de software em formação, com experiência em estágio como desen
   </a>
 </p>
 
----
-
-<div align="center">
-  <i>⭐ Deixa uma estrela nos repositórios se gostar do que ver por aí!</i>
-</div>
